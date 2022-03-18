@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AbelPro-Regular';
+  src: url('AbelPro-Regular.eot');
+  src: url('AbelPro-Regular.eot?#iefix') format('embedded-opentype'),
+       url('AbelPro-Regular.svg#AbelPro-Regular') format('svg'),
+       url('AbelPro-Regular.ttf') format('truetype'),
+       url('AbelPro-Regular.woff') format('woff'),
+       url('AbelPro-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

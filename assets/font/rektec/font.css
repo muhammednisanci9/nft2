@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Rektec';
+  src: url('Rektec.eot');
+  src: url('Rektec.eot?#iefix') format('embedded-opentype'),
+       url('Rektec.svg#Rektec') format('svg'),
+       url('Rektec.ttf') format('truetype'),
+       url('Rektec.woff') format('woff'),
+       url('Rektec.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
